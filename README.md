@@ -24,7 +24,7 @@ Research
 Wireframe
 UI Design
 Prototype
-https://www.figma.com/design/nW8Wy3o0yKOmdUKQUszkSV/Travel-booking-book--Community-?node-id=0-1&p=f&t=RXHzNjFobq8NvZaD-0
+https://github.com/gopikaBCA43/UI-UX-Designs
 Testing
 Slide 6 – Color Palette & Typography
 Show your primary colors.
