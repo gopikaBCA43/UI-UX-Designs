@@ -31,8 +31,11 @@ Show your primary colors.
 Mention the fonts you used.
 Slide 7 – Screens Insert your Figma screenshots with a one-line explanation for each.
 <img width="440" height="956" alt="iPhone 16   17 Pro Max - 1" src="https://github.com/user-attachments/assets/ab969071-5b64-464e-b29e-c38e89e2f645" />
-
-
+<img width="470" height="956" alt="iPhone 16   17 Pro Max - 2" src="https://github.com/user-attachments/assets/7ff14094-45eb-4d82-984c-406e2a3e3927" />
+<img width="441" height="956" alt="iPhone 16   17 Pro Max - 3" src="https://github.com/user-attachments/assets/e8910888-d92a-4282-99cd-10aabbc61953" />
+<img width="449" height="956" alt="iPhone 16   17 Pro Max - 4" src="https://github.com/user-attachments/assets/38eda1d3-2677-4021-bfeb-fa6c6e37a323" />
+<img width="450" height="955" alt="iPhone 16   17 Pro Max - 5" src="https://github.com/user-attachments/assets/55df2116-7aa0-429e-a3d9-951b4883d401" />
+<img width="435" height="943" alt="iPhone 16   17 Pro Max - 6" src="https://github.com/user-attachments/assets/cb4cd2ef-cc07-49c0-9ff1-9fa3a0296c74" />
 Slide 8 – User Flow Splash → Home → Flight → Hotel → Booking → Confirmation
 Slide 9 – Tools Used
 Figma
