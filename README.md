@@ -1,13 +1,13 @@
 ✈️ Travel Booking App
-UI/UX Design using Figma
-Your Name:Gopika.M
-Register Number:2617028
-Department:BCA
-College:Kamaraj College
-Slide 2 – Project Overview
-Introduce the app.
+UI/UX Design using Figma 
+Your Name:Gopika.M 
+Register Number:2617028 
+Department:BCA 
+College:Kamaraj College 
+Slide 2 – Project Overview 
+Introduce the app. 
 Explain that users can search destinations, book flights and hotels, and manage trips.
-Slide 3 – Objective
+Slide 3 – Objective 
 Easy to use interface
 Fast booking process
 Attractive design
